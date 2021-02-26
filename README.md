@@ -4,7 +4,7 @@ This is a quick start template for you & your team to bootstrap the next project
 
 ## What is pre-packaged in this template?
 
-We have bootstrapped this our knowledge of the best practices and the following tech stack:
+We have bootstrapped this with our knowledge of the best practices and the following tech stack:
 
 - [Next.js](https://github.com/vercel/next.js/)
 - [TypeScript](https://github.com/microsoft/TypeScript)
